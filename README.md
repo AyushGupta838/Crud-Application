@@ -1,3 +1,3 @@
 
 
-![crup application](Crud Application Photo.JPG)
+![crup application](crud.JPG)
